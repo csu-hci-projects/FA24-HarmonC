@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Camille Harmon/___CODE___/IdeaProjects/FA24-HarmonC/HC_Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Camille Harmon/___CODE___/IdeaProjects/FA24-HarmonC/HC_Project/Content/My_Blueprints/Start_Menu.uasset",
+				"C:/Users/Camille Harmon/___CODE___/IdeaProjects/FA24-HarmonC/HC_Project/Content/Level1.umap",
 				"C:/Users/cam_the_camel/Documents/Unreal Projects/Homework1Project/HC_Project/Content/Level2.umap",
 				"C:/Users/cam_the_camel/Documents/Unreal Projects/Homework1Project/HC_Project/Content/Level3.umap",
 				"C:/Users/cam_the_camel/Documents/Unreal Projects/Homework1Project/HC_Project/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
