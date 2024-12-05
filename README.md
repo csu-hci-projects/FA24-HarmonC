@@ -1,7 +1,17 @@
 # Fa24-HarmonC
 Created By: Camille Harmon
 
-## Overview
+## Overview of HC_Project2
+
+
+
+
+
+
+
+
+
+## Overview of HC_Project1
 This is a first person shooter game developed in Unreal Engine 5. It features 3 unique levels, hazards, targets, and health and ammo pickups. User UI is also implemented.
 
 2.Record a 5-10 minute video showcasing the features above. You must demonstrate how each feature works while running the game and show the event graph (blueprint “code”). This video needs to be uploaded to YouTube UNLISTED. That link must be turned in on the associated assignment Canvas page. It is your responsibility that it works. 
