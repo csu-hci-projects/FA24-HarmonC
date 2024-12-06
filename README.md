@@ -5,8 +5,8 @@ Created By: Camille Harmon
 This is a first person shooter VR game developed in Unreal Engine 5. It includes grabable objects, dynamic teleportation mechanics, ammo tracking, and moving targets awaiting a player to be eliminated. The objective of the game is to destroy targets and unlock the secret room. 
 
 Special Thanks to VR Playground and Virtus Learning Lab on Youtube for help setting up a VR Menu.
-https://www.youtube.com/watch?v=WzNpasjj_VM
-https://www.youtube.com/watch?v=kM27HYbpvc0
+- https://www.youtube.com/watch?v=WzNpasjj_VM
+- https://www.youtube.com/watch?v=kM27HYbpvc0
 
 1. Video Showcasing Gameplay:
 2. Video Explaining Blueprints:
