@@ -2,23 +2,22 @@
 Created By: Camille Harmon
 
 ## Overview of HC_Project2
+This is a first person shooter VR game developed in Unreal Engine 5. It includes grabable objects, dynamic teleportation mechanics, ammo tracking, and moving targets awaiting a player to be eliminated. The objective of the game is to destroy targets and unlock the secret room. 
 
+Special Thanks to VR Playground and Virtus Learning Lab on Youtube for help setting up a VR Menu.
+https://www.youtube.com/watch?v=WzNpasjj_VM
+https://www.youtube.com/watch?v=kM27HYbpvc0
 
-
-
-
-
-
+1. Video Showcasing Gameplay:
+2. Video Explaining Blueprints:
+3. A.I. Report Turned in separately. Youtube videos used for help are linked above.
 
 
 ## Overview of HC_Project1
 This is a first person shooter game developed in Unreal Engine 5. It features 3 unique levels, hazards, targets, and health and ammo pickups. User UI is also implemented.
 
-2.Record a 5-10 minute video showcasing the features above. You must demonstrate how each feature works while running the game and show the event graph (blueprint “code”). This video needs to be uploaded to YouTube UNLISTED. That link must be turned in on the associated assignment Canvas page. It is your responsibility that it works. 
-https://youtu.be/yvbmxJVRqxA
+1. Video Showcasing Gameplay: https://youtu.be/yvbmxJVRqxA
 
-3. Record a longer video where you explain all your blueprints. This will also be YouTube unlisted.
-https://youtu.be/RKq7KI4iw0c
+2. Video Explaining Blueprints: https://youtu.be/RKq7KI4iw0c
 
-4. Please feel free to use LLMs (e.g., Chat GPT) to help or the web. Please write a document of what you used beyond the class. This part will not be graded but saved as you need it for your AI report. A PDF file of this will be required to be uploaded.
 Most of my help came from Teams or the Lab Videos. I did use ChatGPT however to figure out how to write a ReadMe File and it also recommended to me the node Get Current Level name to fix my UI issue.
